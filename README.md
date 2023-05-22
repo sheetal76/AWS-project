@@ -15,7 +15,10 @@ We have a customer data that is stored on a backend database that we want to kee
 <img width="662" alt="RT" src="https://github.com/sheetal76/AWS-project/assets/122160812/0c125c8c-646a-41b9-ae45-4346dc38020c">
 
 
+
 <img width="737" alt="IGW" src="https://github.com/sheetal76/AWS-project/assets/122160812/913a7811-402a-4173-b447-ec2af00a3b5e">
+
+
 
 <img width="724" alt="NAT GW" src="https://github.com/sheetal76/AWS-project/assets/122160812/47e45446-ff5a-4146-b166-f51650f19b21">
 
